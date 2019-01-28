@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Lab Equipment" language="en" table="x_225992_aperture_lab_equipment">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Lab Equipment</label>
+            <language>en</language>
+            <name>x_225992_aperture_lab_equipment</name>
+            <plural>Lab Equipment</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>abraham.lincoln</sys_created_by>
+            <sys_created_on>2019-01-25 21:03:17</sys_created_on>
+            <sys_id>ecdc375cdb932300d0faf53a299619e2</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>Lab Equipment</sys_name>
+            <sys_package display_value="Aperture Science" source="x_225992_aperture">e11803dcdb132300d0faf53a299619c7</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Aperture Science">e11803dcdb132300d0faf53a299619c7</sys_scope>
+            <sys_update_name>sys_documentation_x_225992_aperture_lab_equipment__en</sys_update_name>
+            <sys_updated_by>abraham.lincoln</sys_updated_by>
+            <sys_updated_on>2019-01-25 21:12:14</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
